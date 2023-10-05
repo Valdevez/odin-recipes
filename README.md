@@ -1,1 +1,1 @@
-Okay so this is the readme that should stay as a text file. PLEASE.
+This is my odin project assignment, making a basic recipe page and linking them back and forth.
